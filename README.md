@@ -1,0 +1,1 @@
+# analise_em_bolsa_valores_django
